@@ -1,2 +1,5 @@
 streamlit
 plotly
+yfinance
+investpy
+alpha_vantage
