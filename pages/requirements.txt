@@ -3,3 +3,6 @@ plotly
 yfinance
 investpy
 alpha_vantage
+streamlit
+pillow
+folium
